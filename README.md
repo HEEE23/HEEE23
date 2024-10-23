@@ -65,6 +65,9 @@
 </div>
 
 <br>
+<a href="https://github.com/HEEE23"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEEE23&layout=compact&theme=vue&hide_border=true" /></a> 
+
+<br>
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
