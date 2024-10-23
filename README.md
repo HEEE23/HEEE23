@@ -65,6 +65,4 @@
 </div>
 
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HEEE23&layout=compact)
-
-23
+![HEEE23's github stats](https://github-readme-stats.vercel.app/api?username=HEEE23&show_icons=true)
