@@ -63,3 +63,7 @@
       src="https://img.shields.io/badge/gmltjs1592@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hee&layout=compact)
+
