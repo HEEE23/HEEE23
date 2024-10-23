@@ -65,12 +65,7 @@
 </div>
 
 <br>
-<a href="https://github.com/HEEE23"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEEE23&layout=compact&theme=vue&hide_border=true" /></a> 
-
-<br>
-
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
+<a href="https://github.com/HEEE23"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEEE23&layout=compact&theme=vue&hide_border=true" /></a> 
+<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=HEEE23&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="HEEE23's github stats" /></a>
 
-[![HEEE23's GitHub stats](https://github-readme-stats.vercel.app/api?username=HEEE23&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-</div>
