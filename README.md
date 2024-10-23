@@ -66,6 +66,7 @@
 
 <br>
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
 <a href="https://github.com/HEEE23"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEEE23&layout=compact&theme=vue&hide_border=true" /></a> 
 <a href="https://github.com/HEEE23"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=HEEE23&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="HEEE23's github stats" /></a>
-
+</div>
