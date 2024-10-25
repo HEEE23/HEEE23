@@ -1,4 +1,6 @@
 <!--타이틀 부분-->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHEEE23%2Fhit-counter)](https://hits.seeyoufarm.com)                    
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/b090a0f0-cebd-4b70-91f3-7c0caadfa1e1" />
 </div>
